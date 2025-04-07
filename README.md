@@ -10,6 +10,8 @@ My name is Rafael Ferreira da Silva and I'm a systems analysis and development s
 
 |📲 CONTACTS|
 
-[![Email](https://img.shields.io/badge/Email-Rafael%20Silva-blue?style=for-the-badge&logo=gmail)](mailto:rafael.f.silva55@aluno.senai.br) Educacional
+[![Student Email](https://img.shields.io/badge/rafael.f.silva55%40aluno.senai.br-%23FF3B30?style=plastic&logo=gmail&logoColor=white&color=FF3B30&labelColor=FF3B30)](mailto:rafael.f.silva55@aluno.senai.br) Student
 
-[![Email](https://img.shields.io/badge/Email-Rafael%20Silva-blue?style=for-the-badge&logo=gmail)](mailto:rafaferreirasilva2018@gmail.com) Pessoal
+
+[![Personal Email](https://img.shields.io/badge/rafaferreirasilva2018%40gmail.com-%23FF3B30?style=plastic&logo=gmail&logoColor=white&color=FF3B30&labelColor=FF3B30)](mailto:rafaferreirasilva2018@gmail.com) Personal
+
