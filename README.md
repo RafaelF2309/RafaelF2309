@@ -3,7 +3,7 @@
 
 ## My name is Rafael Ferreira da Silva and I'm a systems analysis and development student at Senai
 
-|⚡ TECHNOLOGIES |
+#### |⚡ TECHNOLOGIES |
 
 🌱I’m currently learning🌱
 
@@ -13,7 +13,7 @@
 
 
 
-|📲 CONTACTS |
+#### |📲 CONTACTS |
 
 [![Student Email](https://img.shields.io/badge/rafael.f.silva55%40aluno.senai.br-%23FF3B30?style=plastic&logo=gmail&logoColor=white&color=FF3B30&labelColor=FF3B30)](mailto:rafael.f.silva55@aluno.senai.br) Student
 
